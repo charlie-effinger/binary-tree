@@ -1,0 +1,39 @@
+ What is the node count?
+ preOrder: 
+           5
+           3
+           1
+           2
+           4
+           7
+           6
+           8
+           9
+          10
+ Breadth-first: 
+           5
+           3
+           7
+           1
+           4
+           6
+           8
+           2
+           9
+          10
+ Postorder: 
+           2
+           1
+           4
+           3
+           6
+          10
+           9
+           8
+           7
+           5
+ What is the probe count?
+          -1 no
+           3 yes
+           7 yes
+          11 no

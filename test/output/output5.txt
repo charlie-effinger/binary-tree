@@ -1,0 +1,23 @@
+ What is the node count?
+ preOrder: 
+           2
+           1
+           3
+           4
+ Breadth-first: 
+           2
+           1
+           3
+           4
+ Postorder: 
+           1
+           4
+           3
+           2
+ What is the probe count?
+ Invalid probe count. Please enter an integer >= 0.
+ What is the probe count?
+
+At line 40 of file fortran.f (unit = 5, file = 'stdin')
+Fortran runtime error: Bad integer for item 1 in list input
+

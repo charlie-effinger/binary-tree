@@ -1,0 +1,11 @@
+ What is the node count?
+ Invalid node count. Please enter an integer > 0.
+ What is the node count?
+ Invalid node count. Please enter an integer > 0.
+ What is the node count?
+ Invalid node count. Please enter an integer <= 1000.
+ What is the node count?
+
+At line 18 of file fortran.f (unit = 5, file = 'stdin')
+Fortran runtime error: Bad integer for item 1 in list input
+

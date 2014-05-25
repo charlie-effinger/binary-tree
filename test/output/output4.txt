@@ -1,0 +1,4 @@
+ What is the node count?
+
+At line 80 of file fortran.f (unit = 5, file = 'stdin')
+Fortran runtime error: Bad integer for item 1 in list input

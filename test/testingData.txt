@@ -1,0 +1,34 @@
+TEST CASES
+Test 1: Dr. Finkel's Input
+	input file: test1.data
+	output file: output1.txt
+Test 2: More Normal Input
+	input file: test2.data
+	output file: output2.txt
+Test 3: Improper Input for nodeCount
+	input file: test3.data
+	output file: output3.txt
+	NOTE: Improper numeric input asks for another node count. Other input will cause the program to crash.
+Test 4: Improper Input for nodes
+	input file: test4.data
+	output file: output4.txt
+	NOTE: Program will crash if non-numeric nodes are given.
+Test 5: Improper Input for probeCount
+	input file: test5.data
+	output file: output5.txt
+	NOTE: Improper numeric input asks for another node count. Other input will cause the program to crash.
+Test 6: Improper Input for probes
+	input file: test6.data
+	output file: output6.txt
+Test 7: Improper End of File (not enough input)
+	input file: test7.data
+	output file: output7.txt
+Test 8: Ask for zero probes
+	input file: test8.data 
+	output file: output8.txt
+Test 9: "Linked-list" nodes
+	input file: test9.data
+	output file: output9.txt
+Test 10: One node
+	input file: test10.data
+	output file: output10.data
