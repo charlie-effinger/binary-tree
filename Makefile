@@ -1,4 +1,3 @@
-# grader: I built this file.  -0
 FFLAGS = -Wall -g
 GOAL = fortran
 DATA = test1.data
