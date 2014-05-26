@@ -1,4 +1,4 @@
-C Charles Effinger - CS 450g Assignment 1
+C Charles Effinger
 C This Fortran program builds, prints, and probes a binary tree. 
       PROGRAM Fortran
 C The function getNodeCount reads in the node count for the tree and 
